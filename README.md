@@ -2,7 +2,7 @@
 
 Two small, dependency-free watchdogs for self-hosted [Positron Server](https://github.com/posit-dev/positron) (`Kallichore` kernel supervisor) deployments. They watch what the IDE itself never reaps, and they do it read-only until you tell them otherwise.
 
-Companion to [posit-dev/positron#16167](https://github.com/posit-dev/positron/issues/16167) (stale supervisor tombstones from Linux TID collisions) and its fix, [posit-dev/positron#16176](https://github.com/posit-dev/positron/pull/16176).
+Companion to [posit-dev/positron#16167](https://github.com/posit-dev/positron/issues/16167) (stale supervisor tombstones from Linux TID collisions) and its fix, [posit-dev/positron#16176](https://github.com/posit-dev/positron/pull/16176) — adopted upstream as [posit-dev/positron#16224](https://github.com/posit-dev/positron/pull/16224).
 
 ## Scripts
 
